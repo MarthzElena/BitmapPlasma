@@ -1,0 +1,4 @@
+See file:///Users/marthaelena/AndroidStudioProjects/BitmapPlasma/app/build/tmp/compileX86DebugAllPlasmaSharedLibraryPlasmaMainC/output.txt for all output for compileX86DebugAllPlasmaSharedLibraryPlasmaMainC.
+compiling plasma.c successful.
+
+Finished compileX86DebugAllPlasmaSharedLibraryPlasmaMainC, see full log file:///Users/marthaelena/AndroidStudioProjects/BitmapPlasma/app/build/tmp/compileX86DebugAllPlasmaSharedLibraryPlasmaMainC/output.txt.

@@ -1,0 +1,4 @@
+See file:///Users/marthaelena/AndroidStudioProjects/BitmapPlasma/app/build/tmp/linkArmeabi-v7aDebugAllPlasmaSharedLibrary/output.txt for all output for linkArmeabi-v7aDebugAllPlasmaSharedLibrary.
+linking libplasma.so successful.
+
+Finished linkArmeabi-v7aDebugAllPlasmaSharedLibrary, see full log file:///Users/marthaelena/AndroidStudioProjects/BitmapPlasma/app/build/tmp/linkArmeabi-v7aDebugAllPlasmaSharedLibrary/output.txt.

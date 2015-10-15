@@ -1,0 +1,4 @@
+See file:///Users/marthaelena/AndroidStudioProjects/BitmapPlasma/app/build/tmp/compileArmeabi-v7aDebugAllPlasmaSharedLibraryPlasmaMainC/output.txt for all output for compileArmeabi-v7aDebugAllPlasmaSharedLibraryPlasmaMainC.
+compiling plasma.c successful.
+
+Finished compileArmeabi-v7aDebugAllPlasmaSharedLibraryPlasmaMainC, see full log file:///Users/marthaelena/AndroidStudioProjects/BitmapPlasma/app/build/tmp/compileArmeabi-v7aDebugAllPlasmaSharedLibraryPlasmaMainC/output.txt.

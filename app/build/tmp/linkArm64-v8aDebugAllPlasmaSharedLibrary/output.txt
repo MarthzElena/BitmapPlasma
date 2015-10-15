@@ -1,0 +1,4 @@
+See file:///Users/marthaelena/AndroidStudioProjects/BitmapPlasma/app/build/tmp/linkArm64-v8aDebugAllPlasmaSharedLibrary/output.txt for all output for linkArm64-v8aDebugAllPlasmaSharedLibrary.
+linking libplasma.so successful.
+
+Finished linkArm64-v8aDebugAllPlasmaSharedLibrary, see full log file:///Users/marthaelena/AndroidStudioProjects/BitmapPlasma/app/build/tmp/linkArm64-v8aDebugAllPlasmaSharedLibrary/output.txt.

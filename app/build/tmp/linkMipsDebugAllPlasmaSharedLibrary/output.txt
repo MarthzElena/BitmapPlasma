@@ -1,0 +1,4 @@
+See file:///Users/marthaelena/AndroidStudioProjects/BitmapPlasma/app/build/tmp/linkMipsDebugAllPlasmaSharedLibrary/output.txt for all output for linkMipsDebugAllPlasmaSharedLibrary.
+linking libplasma.so successful.
+
+Finished linkMipsDebugAllPlasmaSharedLibrary, see full log file:///Users/marthaelena/AndroidStudioProjects/BitmapPlasma/app/build/tmp/linkMipsDebugAllPlasmaSharedLibrary/output.txt.
